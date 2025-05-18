@@ -87,10 +87,6 @@
   <img src="https://img.icons8.com/color/100/certificate.png" title="Upload your certificates here!" />
 </p>
 
-> *Add your certification links above or replace the icon with your Forage, LinkedIn, or Coursera certificates*
-
----
-
 ### 🧩 Soft Skills
 
 - Strong problem-solving & analytical mindset  
