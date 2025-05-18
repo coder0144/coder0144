@@ -73,9 +73,9 @@
 
 ### 🧠 Technical Skills
 
-- **Languages**: C++, Python, SQL, JavaScript  
-- **Database**: MySQL, PostgreSQL, MongoDB  
-- **Tools**: Git, GitHub, VS Code, MATLAB  
+- **Languages**: C++, Python, SQL, JavaScript, CSS, HTML5 
+- **Database**: MySQL, MongoDB  
+- **Tools**: Git, GitHub, VS Code, Microsoft SQL Server 
 - **Analytics**: Power BI, Excel, Pandas, Seaborn  
 - **Cloud/IoT**: Azure, AWS, Raspberry Pi  
 
